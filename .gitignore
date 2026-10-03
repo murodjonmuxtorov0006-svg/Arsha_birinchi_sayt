@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.log
+*.sqlite3
+.env
+.env.*
+
+# Virtual environments
+venv/
+.venv/
+arash_venv/
+arsha_venv/
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Generated app data
+media/
+staticfiles/
+
+# OS files
+.DS_Store
+Thumbs.db

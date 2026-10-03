@@ -1,0 +1,340 @@
+<changelist name="Changes" date="1791005510421" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/apple-touch-icon.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/apple-touch-icon.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/BMW_Black_1920x1080.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/BMW_Black_1920x1080.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/BMW_Red_1920x1080.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/BMW_Red_1920x1080.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/bootstrap-icons.woff" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/bootstrap-icons.woff2" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/boxicons/fonts/boxicons.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.eot" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/boxicons/fonts/boxicons.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.ttf" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/boxicons/fonts/boxicons.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.woff" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/boxicons/fonts/boxicons.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.woff2" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/clients/client-1.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/client-1.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/clients/client-2.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/client-2.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/clients/client-3.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/client-3.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/clients/client-4.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/client-4.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/clients/client-5.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/client-5.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/clients/client-6.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/client-6.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/cta-bg.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/cta-bg.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="db.sqlite3" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/db.sqlite3" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/Devotion_1920x1440.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Devotion_1920x1440.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/favicon.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/favicon.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/hero-img.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/hero-img.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/i.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/i.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/i.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/i1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/images.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/images.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/KILLNET.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/KILLNET.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/logo.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/logo.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/logo1.web.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo1.web.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/logo1.web.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo1.web1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/logo2.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo2.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/logo2.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo21.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/logo2_ViZDrUq.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/logo2_ViZDrUq.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/Palm_On_The_Glass_1280x1024.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/Palm_On_The_Glass_1280x1024.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/paynet1.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/paynet1.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet11.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/paynet2.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet2.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/paynet2.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet2.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/paynet2.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet21.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/paynet3.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet3.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/paynet3.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet3.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/paynet3.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/paynet31.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/photo_2024-08-17_19-44-57.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-08-17_19-44-57.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/photo_2024-09-05_16-20-31.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-09-05_16-20-31.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/photo_2024-09-24_19-07-04.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-09-24_19-07-04.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/photo_2024-09-26_14-17-42.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-09-26_14-17-42.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/photo_2024-11-21_07-46-17.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-11-21_07-46-17.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/photo_2026-01-06_08-58-39.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/photo_2026-01-06_08-58-39.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-1.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-1.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-2.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-2.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-3.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-3.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-4.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-4.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-5.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-5.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-6.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-6.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-7.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-7.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-8.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-8.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-9.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-9.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-details-1.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-details-1.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-details-2.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-details-2.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/portfolio/portfolio-details-3.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-details-3.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/remixicon/remixicon.eot" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.eot" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/remixicon/remixicon.ttf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.ttf" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/remixicon/remixicon.woff" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.woff" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/vendor/remixicon/remixicon.woff2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.woff2" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/skills.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/skills.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/team/team-1.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/team-1.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/team/team-2.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/team-2.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/team/team-3.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/team-3.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/team/team-4.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/team-4.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/telegram1.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/telegram1.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/telegram2.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/telegram2.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/telegram3.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/telegram3.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/uzum2.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/uzum2.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/uzum3.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/uzum3.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/vladstudio_eurovision_day_1920x1200.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/vladstudio_eurovision_day_1920x1200.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/vladstudio_worldinversed_notext_2560x1600.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/vladstudio_worldinversed_notext_2560x1600.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="myapp/static/assets/img/why-us.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/why-us.png" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/yandex.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/yandex.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex1.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/yandex1.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex11.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/yandex1.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex12.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/yandex1_8S5q7HV.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex1_8S5q7HV.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/yandex2.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex2.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/yandex3.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex3.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/media/yandex3.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex3.webp" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="media/yandex3.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/yandex31.webp" />
+  </binary>
+</changelist>
