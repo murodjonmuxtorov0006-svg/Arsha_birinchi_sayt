@@ -4,97 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d6efc2c-558a-48c7-b988-59fd085aac2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/BMW_Black_1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/BMW_Red_1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Devotion_1920x1440.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/KILLNET.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Palm_On_The_Glass_1280x1024.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bootstrap-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bootstrap-icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/boxicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/client-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/client-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/client-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/client-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/client-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/client-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/cta-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/hero-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/i.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/i1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/logo1.web.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/logo1.web1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/logo1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/logo2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/logo21.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/logo2_ViZDrUq.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet11.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet21.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/paynet31.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-08-17_19-44-57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-09-05_16-20-31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-09-24_19-07-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-09-26_14-17-42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/photo_2024-11-21_07-46-17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/photo_2026-01-06_08-58-39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-details-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-details-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/portfolio-details-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/remixicon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/skills.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/team-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/team-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/team-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/team-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/telegram1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/telegram2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/telegram3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/uzum2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/uzum3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/vladstudio_eurovision_day_1920x1200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/vladstudio_worldinversed_notext_2560x1600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/why-us.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex11.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex12.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex1_8S5q7HV.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yandex31.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d6efc2c-558a-48c7-b988-59fd085aac2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,22 +13,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "murodjonmuxtorov0006-svg"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;murodjonmuxtorov0006-svg&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/murodjonmuxtorov0006-svg/Murodjon.git",
+    "url": "https://github.com/murodjonmuxtorov0006-svg/Arsha_birinchi_sayt.git",
     "accountId": "096a8dc5-412d-409f-9106-89d649914fa3"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3KAe3cb7xf4xnGJ1K4L6gWH9uIl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -131,7 +41,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
